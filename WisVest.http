@@ -1,0 +1,6 @@
+@WisVest_HostAddress = http://localhost:5251
+
+GET {{WisVest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,44 @@
+{
+  "assets": {
+    "equity": {
+      "percentage": 30,
+      "subAssets": {
+        "Large Cap": 12,
+        "Mid Cap": 9,
+        "Small Cap": 9
+      }
+    },
+    "fixedIncome": {
+      "percentage": 32.5,
+      "subAssets": {
+        "Gov Bonds": 9.75,
+        "Corp Bonds": 13,
+        "Fixed Dep": 9.75
+      }
+    },
+    "commodities": {
+      "percentage": 17.5,
+      "subAssets": {
+        "Precious Metals": 7,
+        "Energy": 5.25,
+        "Agriculture": 5.25
+      }
+    },
+    "cash": {
+      "percentage": 7.5,
+      "subAssets": {
+        "Liquid Mutual Funds": 2.25,
+        "Savings Acc": 2.25,
+        "T. Bill": 3
+      }
+    },
+    "realEstate": {
+      "percentage": 12.5,
+      "subAssets": {
+        "REITs": 4.69,
+        "Residential Prop": 3.12,
+        "Commercial Prop": 4.69
+      }
+    }
+  }
+}
