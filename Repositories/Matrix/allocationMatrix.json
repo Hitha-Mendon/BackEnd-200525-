@@ -1,0 +1,110 @@
+{
+  "risk_horizon_allocation": {
+  "Low+Short": {
+  "equity": 10,
+  "fixedIncome": 40,
+  "commodities": 5,
+  "cash": 40,
+  "realEstate": 5
+  },
+  "Low+Mod": {
+  "equity": 20,
+  "fixedIncome": 50,
+  "commodities": 10,
+  "cash": 15,
+  "realEstate": 5
+  },
+  "Low+Long": {
+  "equity": 30,
+  "fixedIncome": 45,
+  "commodities": 10,
+  "cash": 10,
+  "realEstate": 5
+  },
+  "Mid+Short": {
+  "equity": 20,
+  "fixedIncome": 40,
+  "commodities": 10,
+  "cash": 25,
+  "realEstate": 5
+  },
+  "Mid+Mod": {
+  "equity": 40,
+  "fixedIncome": 35,
+  "commodities": 10,
+  "cash": 10,
+  "realEstate": 5
+  },
+  "Mid+Long": {
+  "equity": 50,
+  "fixedIncome": 30,
+  "commodities": 10,
+  "cash": 5,
+  "realEstate": 5
+  },
+  "High+Short": {
+  "equity": 30,
+  "fixedIncome": 30,
+  "commodities": 10,
+  "cash": 25,
+  "realEstate": 5
+  },
+  "High+Mod": {
+  "equity": 60,
+  "fixedIncome": 20,
+  "commodities": 10,
+  "cash": 5,
+  "realEstate": 5
+  },
+  "High+Long": {
+  "equity": 70,
+  "fixedIncome": 15,
+  "commodities": 10,
+  "cash": 0,
+  "realEstate": 5
+  }
+  },
+  "age_adjustment_rules": {
+  "<30": {
+  "equity": 10,
+  "fixedIncome": -5,
+  "cash": -5
+  },
+  "30-45": {
+    
+  },
+  "45-60": {
+  "equity": -10,
+  "fixedIncome": 10
+  },
+  "60+": {
+  "equity": -20,
+  "fixedIncome": 15,
+  "realEstate": -5,
+  "cash": 10
+  }
+  },
+  "goal_tuning": {
+   "Emergency Fund": {
+     "cash_min": 40
+   },
+   "Retirement": {
+     "fixedIncome_boost": 10,
+     "realEstate_boost": 5
+   },
+   "Wealth Accumulation": {
+     "equity_priority": true,
+   "equity_boost": 2,
+   "equity_threshold": 40
+   },
+   "Child Education": {
+     "fixedIncome_boost": 10,
+     "equity_threshold": 55,
+     "equityReduction_high": 10,
+     "equityReduction_moderate": 5
+   },
+   "Big Purchase": {
+     "balanced": true
+   }
+ }
+ }

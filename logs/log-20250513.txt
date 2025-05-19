@@ -1,0 +1,162 @@
+2025-05-13 00:01:49.555 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:01:49.607 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:01:49.609 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 53.5635ms
+2025-05-13 00:01:49.616 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:01:49.623 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:01:49.625 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:01:49.628 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:01:49.636 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:01:49.640 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 8.3074ms
+2025-05-13 00:01:49.643 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:01:49.645 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 29.1529ms
+2025-05-13 00:02:18.075 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:02:18.100 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:02:18.103 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 27.8269ms
+2025-05-13 00:02:18.123 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:02:18.127 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:02:18.207 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:02:18.208 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:02:18.212 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:02:18.215 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 5.1959ms
+2025-05-13 00:02:18.220 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:02:18.222 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 99.5361ms
+2025-05-13 00:02:42.115 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:02:42.118 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:02:42.119 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 3.945ms
+2025-05-13 00:02:42.134 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:02:42.137 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:02:42.139 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:02:42.141 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:02:42.145 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:02:42.147 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 2.3729ms
+2025-05-13 00:02:42.149 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:02:42.150 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 15.2521ms
+2025-05-13 00:02:55.299 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:02:55.303 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:02:55.304 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 5.6002ms
+2025-05-13 00:02:55.306 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:02:55.307 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:02:55.308 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:02:55.309 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:02:55.313 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:02:55.315 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 4.7037ms
+2025-05-13 00:02:55.322 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:02:55.332 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 25.9456ms
+2025-05-13 00:03:08.172 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:03:08.183 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:03:08.185 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 13.094ms
+2025-05-13 00:03:08.189 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:03:08.193 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:03:08.195 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:03:08.199 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:03:08.211 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:03:08.215 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 10.6989ms
+2025-05-13 00:03:08.217 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:03:08.220 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 30.7148ms
+2025-05-13 00:03:31.342 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:03:31.357 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:03:31.361 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 18.0692ms
+2025-05-13 00:03:31.374 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:03:31.384 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:03:31.391 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:03:31.394 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:03:31.398 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:03:31.402 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 5.8922ms
+2025-05-13 00:03:31.407 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:03:31.411 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 36.9986ms
+2025-05-13 00:03:32.490 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:03:32.499 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:03:32.509 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:03:32.511 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:03:32.517 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:03:32.522 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 7.8457ms
+2025-05-13 00:03:32.526 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:03:32.529 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 38.6817ms
+2025-05-13 00:22:17.832 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:22:17.845 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:22:17.848 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 15.6733ms
+2025-05-13 00:22:17.852 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:22:17.868 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:22:17.874 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:22:17.881 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:22:17.895 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:22:17.899 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 16.6664ms
+2025-05-13 00:22:17.902 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:22:17.903 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 51.2409ms
+2025-05-13 00:22:27.061 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:22:27.063 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:22:27.064 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 3.1048ms
+2025-05-13 00:22:27.068 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:22:27.075 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:22:27.077 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:22:27.078 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:22:27.082 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:22:27.086 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 6.7572ms
+2025-05-13 00:22:27.088 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:22:27.090 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 21.2722ms
+2025-05-13 00:22:41.029 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:22:41.033 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:22:41.035 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 5.9126ms
+2025-05-13 00:22:41.037 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:22:41.041 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:22:41.043 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:22:41.046 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:22:41.049 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:22:41.052 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 4.4468ms
+2025-05-13 00:22:41.054 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:22:41.055 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 18.301ms
+2025-05-13 00:24:42.424 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:24:42.429 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:24:42.431 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 6.8482ms
+2025-05-13 00:24:42.433 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:24:42.443 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:24:42.444 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:24:42.446 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:24:42.460 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:24:42.462 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 15.2329ms
+2025-05-13 00:24:42.464 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:24:42.466 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 32.8228ms
+2025-05-13 00:25:46.098 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:25:46.103 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:25:46.105 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 7.1044ms
+2025-05-13 00:25:46.108 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:25:46.114 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:25:46.119 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:25:46.123 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:25:46.136 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:25:46.137 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 9.9903ms
+2025-05-13 00:25:46.141 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:25:46.142 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 33.7508ms
+2025-05-13 00:25:55.896 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:25:55.906 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:25:55.908 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 12.1439ms
+2025-05-13 00:25:55.916 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:25:55.933 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:25:55.947 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:25:55.957 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:25:56.057 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:25:56.060 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 12.5443ms
+2025-05-13 00:25:56.062 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:25:56.063 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 147.2709ms
+2025-05-13 00:27:28.040 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:27:28.045 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:27:28.046 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 5.9666ms
+2025-05-13 00:27:28.048 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:27:28.053 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:27:28.064 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:27:28.066 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:27:28.074 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:27:28.077 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 8.161ms
+2025-05-13 00:27:28.078 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:27:28.079 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 31.1399ms
+2025-05-13 00:29:08.087 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-13 00:29:08.097 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:29:08.098 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 10.9554ms
+2025-05-13 00:29:08.102 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-13 00:29:08.111 +05:30 [INF] CORS policy execution successful.
+2025-05-13 00:29:08.114 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:29:08.116 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-13 00:29:08.127 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-13 00:29:08.131 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 9.4232ms
+2025-05-13 00:29:08.133 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-13 00:29:08.135 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 32.1219ms

@@ -1,0 +1,167 @@
+2025-05-20 01:12:37.887 +05:30 [INF] User profile is available. Using 'C:\Users\hitha\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-20 01:12:38.016 +05:30 [INF] Now listening on: http://localhost:5251
+2025-05-20 01:12:38.021 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-20 01:12:38.022 +05:30 [INF] Hosting environment: Development
+2025-05-20 01:12:38.023 +05:30 [INF] Content root path: C:\Users\hitha\Sprint 2 backend
+2025-05-20 01:12:57.207 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/auth/login - null null
+2025-05-20 01:12:57.462 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:12:57.475 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/auth/login - 204 null null 270.6288ms
+2025-05-20 01:12:57.489 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5251/api/auth/login - application/json 47
+2025-05-20 01:12:57.660 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '19-05-2025 19:08:55', Current time (UTC): '19-05-2025 19:42:57'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-05-20 01:12:57.836 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '19-05-2025 19:08:55', Current time (UTC): '19-05-2025 19:42:57'.
+2025-05-20 01:12:57.840 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:12:57.850 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.AuthController.Login (WisVest)'
+2025-05-20 01:12:57.895 +05:30 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(LoginRequest) on controller WisVestAPI.Controllers.AuthController (WisVest).
+2025-05-20 01:12:58.240 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType2`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-05-20 01:12:58.351 +05:30 [INF] Executed action WisVestAPI.Controllers.AuthController.Login (WisVest) in 450.5389ms
+2025-05-20 01:12:58.364 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.AuthController.Login (WisVest)'
+2025-05-20 01:12:58.365 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5251/api/auth/login - 200 null application/json; charset=utf-8 876.3937ms
+2025-05-20 01:13:02.203 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-20 01:13:02.216 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:02.234 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 30.3556ms
+2025-05-20 01:13:02.237 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-20 01:13:02.269 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:02.273 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-20 01:13:02.290 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-20 01:13:02.358 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-20 01:13:02.370 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 68.7344ms
+2025-05-20 01:13:02.373 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-20 01:13:02.377 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 139.9714ms
+2025-05-20 01:13:25.903 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Allocation/compute - null null
+2025-05-20 01:13:25.919 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:25.920 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Allocation/compute - 204 null null 17.7523ms
+2025-05-20 01:13:26.271 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5251/api/Allocation/compute - application/json 103
+2025-05-20 01:13:26.281 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:26.282 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.AllocationController.GetAllocation (WisVest)'
+2025-05-20 01:13:26.286 +05:30 [INF] Route matched with {action = "GetAllocation", controller = "Allocation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[WisVestAPI.Models.DTOs.AllocationResultDTO]] GetAllocation(WisVestAPI.Models.DTOs.UserInputDTO) on controller WisVestAPI.Controllers.AllocationController (WisVest).
+2025-05-20 01:13:26.400 +05:30 [INF] Starting allocation calculation...
+2025-05-20 01:13:26.406 +05:30 [INF] Allocation matrix loaded successfully.
+2025-05-20 01:13:26.407 +05:30 [INF] Looking up base allocation for key: Mid+Long
+2025-05-20 01:13:26.411 +05:30 [INF] Base allocation found: {"equity":50,"fixedIncome":30,"commodities":10,"cash":5,"realEstate":5}
+2025-05-20 01:13:26.518 +05:30 [INF] Looking up age adjustment rules for key: <30
+2025-05-20 01:13:26.521 +05:30 [INF] Age adjustments found: {"equity":10,"fixedIncome":-5,"cash":-5}
+2025-05-20 01:13:26.522 +05:30 [INF] Looking up goal tuning for goal: Big Purchase
+2025-05-20 01:13:26.524 +05:30 [INF] Goal tuning found: {"balanced":true}
+2025-05-20 01:13:26.631 +05:30 [INF] Sub-allocations for equity: {"Large Cap":12,"Mid Cap":9,"Small Cap":9}
+2025-05-20 01:13:26.633 +05:30 [INF] Sub-allocations for fixedIncome: {"Gov Bonds":9.75,"Corp Bonds":13,"Fixed Dep":9.75}
+2025-05-20 01:13:26.634 +05:30 [INF] Sub-allocations for commodities: {"Precious Metals":7,"Energy":5.25,"Agriculture":5.25}
+2025-05-20 01:13:26.634 +05:30 [INF] Sub-allocations for cash: {"Liquid Mutual Funds":2.25,"Savings Acc":2.25,"T. Bill":3}
+2025-05-20 01:13:26.635 +05:30 [INF] Sub-allocations for realEstate: {"REITs":4.69,"Residential Prop":3.12,"Commercial Prop":4.69}
+2025-05-20 01:13:26.636 +05:30 [INF] Added sub-assets for equity: {"Large Cap":12,"Mid Cap":9,"Small Cap":9}
+2025-05-20 01:13:26.636 +05:30 [INF] Added sub-assets for fixedIncome: {"Gov Bonds":9.75,"Corp Bonds":13,"Fixed Dep":9.75}
+2025-05-20 01:13:26.637 +05:30 [INF] Added sub-assets for commodities: {"Precious Metals":7,"Energy":5.25,"Agriculture":5.25}
+2025-05-20 01:13:26.638 +05:30 [INF] Added sub-assets for cash: {"Liquid Mutual Funds":2.25,"Savings Acc":2.25,"T. Bill":3}
+2025-05-20 01:13:26.639 +05:30 [INF] Added sub-assets for realEstate: {"REITs":4.69,"Residential Prop":3.12,"Commercial Prop":4.69}
+2025-05-20 01:13:26.655 +05:30 [INF] Final formatted allocation: {"equity":{"percentage":30,"subAssets":{"Large Cap":12,"Mid Cap":9,"Small Cap":9}},"fixedIncome":{"percentage":32.5,"subAssets":{"Gov Bonds":9.75,"Corp Bonds":13,"Fixed Dep":9.75}},"commodities":{"percentage":17.5,"subAssets":{"Precious Metals":7,"Energy":5.25,"Agriculture":5.25}},"cash":{"percentage":7.5,"subAssets":{"Liquid Mutual Funds":2.25,"Savings Acc":2.25,"T. Bill":3}},"realEstate":{"percentage":12.5,"subAssets":{"REITs":4.69,"Residential Prop":3.12,"Commercial Prop":4.69}}}
+2025-05-20 01:13:26.815 +05:30 [INF] Final allocation saved successfully to FinalAllocation.json
+2025-05-20 01:13:26.817 +05:30 [INF] Final formatted allocation: {"equity":{"percentage":30,"subAssets":{"Large Cap":12,"Mid Cap":9,"Small Cap":9}},"fixedIncome":{"percentage":32.5,"subAssets":{"Gov Bonds":9.75,"Corp Bonds":13,"Fixed Dep":9.75}},"commodities":{"percentage":17.5,"subAssets":{"Precious Metals":7,"Energy":5.25,"Agriculture":5.25}},"cash":{"percentage":7.5,"subAssets":{"Liquid Mutual Funds":2.25,"Savings Acc":2.25,"T. Bill":3}},"realEstate":{"percentage":12.5,"subAssets":{"REITs":4.69,"Residential Prop":3.12,"Commercial Prop":4.69}}}
+2025-05-20 01:13:26.824 +05:30 [INF] Executing OkObjectResult, writing value of type 'WisVestAPI.Models.DTOs.AllocationResultDTO'.
+2025-05-20 01:13:26.836 +05:30 [INF] Executed action WisVestAPI.Controllers.AllocationController.GetAllocation (WisVest) in 546.5273ms
+2025-05-20 01:13:26.856 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.AllocationController.GetAllocation (WisVest)'
+2025-05-20 01:13:26.865 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5251/api/Allocation/compute - 200 null application/json; charset=utf-8 593.6953ms
+2025-05-20 01:13:26.873 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/ProductAllocation/calculate-product-allocations?targetAmount=2345666&investmentHorizon=12 - null null
+2025-05-20 01:13:26.878 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:26.881 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/ProductAllocation/calculate-product-allocations?targetAmount=2345666&investmentHorizon=12 - 204 null null 8.0894ms
+2025-05-20 01:13:26.920 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5251/api/ProductAllocation/calculate-product-allocations?targetAmount=2345666&investmentHorizon=12 - application/json 498
+2025-05-20 01:13:26.933 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:26.936 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductAllocationController.CalculateProductAllocations (WisVest)'
+2025-05-20 01:13:26.949 +05:30 [INF] Route matched with {action = "CalculateProductAllocations", controller = "ProductAllocation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] CalculateProductAllocations(WisVestAPI.Models.DTOs.AllocationResultDTO, Double, Int32) on controller WisVestAPI.Controllers.ProductAllocationController (WisVest).
+2025-05-20 01:13:26.992 +05:30 [INF] Sub-allocation Data Received: {"Assets":{"equity":{"Percentage":30,"SubAssets":{"Large Cap":12,"Mid Cap":9,"Small Cap":9}},"fixedIncome":{"Percentage":32.5,"SubAssets":{"Gov Bonds":9.75,"Corp Bonds":13,"Fixed Dep":9.75}},"commodities":{"Percentage":17.5,"SubAssets":{"Precious Metals":7,"Energy":5.25,"Agriculture":5.25}},"cash":{"Percentage":7.5,"SubAssets":{"Liquid Mutual Funds":2.25,"Savings Acc":2.25,"T. Bill":3}},"realEstate":{"Percentage":12.5,"SubAssets":{"REITs":4.69,"Residential Prop":3.12,"Commercial Prop":4.69}}}}
+2025-05-20 01:13:26.995 +05:30 [INF] Target Amount: 2345666
+2025-05-20 01:13:26.998 +05:30 [INF] Investment Horizon: 12
+2025-05-20 01:13:27.001 +05:30 [INF] Starting product allocation calculation.
+2025-05-20 01:13:27.018 +05:30 [INF] Calculating investment amount with PercentageSplit: 6.25, TargetAmount: 2345666, AnnualReturn: 10, InvestmentHorizon: 12.
+2025-05-20 01:13:27.020 +05:30 [INF] Calculated investment amount: 46712.59.
+2025-05-20 01:13:27.022 +05:30 [INF] Calculating investment amount with PercentageSplit: 5.75, TargetAmount: 2345666, AnnualReturn: 9.2, InvestmentHorizon: 12.
+2025-05-20 01:13:27.025 +05:30 [INF] Calculated investment amount: 46909.67.
+2025-05-20 01:13:27.028 +05:30 [INF] Calculating investment amount with PercentageSplit: 4.79, TargetAmount: 2345666, AnnualReturn: 12.5, InvestmentHorizon: 12.
+2025-05-20 01:13:27.033 +05:30 [INF] Calculated investment amount: 27338.29.
+2025-05-20 01:13:27.035 +05:30 [INF] Calculating investment amount with PercentageSplit: 4.21, TargetAmount: 2345666, AnnualReturn: 11, InvestmentHorizon: 12.
+2025-05-20 01:13:27.038 +05:30 [INF] Calculated investment amount: 28227.51.
+2025-05-20 01:13:27.040 +05:30 [INF] Calculating investment amount with PercentageSplit: 4.63, TargetAmount: 2345666, AnnualReturn: 14, InvestmentHorizon: 12.
+2025-05-20 01:13:27.044 +05:30 [INF] Calculated investment amount: 22541.82.
+2025-05-20 01:13:27.046 +05:30 [INF] Calculating investment amount with PercentageSplit: 4.37, TargetAmount: 2345666, AnnualReturn: 13.2, InvestmentHorizon: 12.
+2025-05-20 01:13:27.054 +05:30 [INF] Calculated investment amount: 23152.11.
+2025-05-20 01:13:27.056 +05:30 [INF] Calculating investment amount with PercentageSplit: 4.97, TargetAmount: 2345666, AnnualReturn: 5, InvestmentHorizon: 12.
+2025-05-20 01:13:27.059 +05:30 [INF] Calculated investment amount: 64915.88.
+2025-05-20 01:13:27.061 +05:30 [INF] Calculating investment amount with PercentageSplit: 4.78, TargetAmount: 2345666, AnnualReturn: 4.8, InvestmentHorizon: 12.
+2025-05-20 01:13:27.064 +05:30 [INF] Calculated investment amount: 63879.08.
+2025-05-20 01:13:27.065 +05:30 [INF] Calculating investment amount with PercentageSplit: 6.36, TargetAmount: 2345666, AnnualReturn: 6.8, InvestmentHorizon: 12.
+2025-05-20 01:13:27.069 +05:30 [INF] Calculated investment amount: 67743.6.
+2025-05-20 01:13:27.071 +05:30 [INF] Calculating investment amount with PercentageSplit: 6.64, TargetAmount: 2345666, AnnualReturn: 7.1, InvestmentHorizon: 12.
+2025-05-20 01:13:27.074 +05:30 [INF] Calculated investment amount: 68384.96.
+2025-05-20 01:13:27.076 +05:30 [INF] Calculating investment amount with PercentageSplit: 4.79, TargetAmount: 2345666, AnnualReturn: 5.5, InvestmentHorizon: 12.
+2025-05-20 01:13:27.079 +05:30 [INF] Calculated investment amount: 59097.92.
+2025-05-20 01:13:27.080 +05:30 [INF] Calculating investment amount with PercentageSplit: 4.96, TargetAmount: 2345666, AnnualReturn: 5.7, InvestmentHorizon: 12.
+2025-05-20 01:13:27.084 +05:30 [INF] Calculated investment amount: 59820.22.
+2025-05-20 01:13:27.086 +05:30 [INF] Calculating investment amount with PercentageSplit: 3.87, TargetAmount: 2345666, AnnualReturn: 7.8, InvestmentHorizon: 12.
+2025-05-20 01:13:27.090 +05:30 [INF] Calculated investment amount: 36859.72.
+2025-05-20 01:13:27.091 +05:30 [INF] Calculating investment amount with PercentageSplit: 3.13, TargetAmount: 2345666, AnnualReturn: 6.3, InvestmentHorizon: 12.
+2025-05-20 01:13:27.098 +05:30 [INF] Calculated investment amount: 35270.48.
+2025-05-20 01:13:27.100 +05:30 [INF] Calculating investment amount with PercentageSplit: 2.48, TargetAmount: 2345666, AnnualReturn: 9.2, InvestmentHorizon: 12.
+2025-05-20 01:13:27.103 +05:30 [INF] Calculated investment amount: 20232.34.
+2025-05-20 01:13:27.104 +05:30 [INF] Calculating investment amount with PercentageSplit: 2.77, TargetAmount: 2345666, AnnualReturn: 10.3, InvestmentHorizon: 12.
+2025-05-20 01:13:27.107 +05:30 [INF] Calculated investment amount: 20037.33.
+2025-05-20 01:13:27.109 +05:30 [INF] Calculating investment amount with PercentageSplit: 2.88, TargetAmount: 2345666, AnnualReturn: 8.5, InvestmentHorizon: 12.
+2025-05-20 01:13:27.112 +05:30 [INF] Calculated investment amount: 25380.6.
+2025-05-20 01:13:27.115 +05:30 [INF] Calculating investment amount with PercentageSplit: 2.37, TargetAmount: 2345666, AnnualReturn: 7, InvestmentHorizon: 12.
+2025-05-20 01:13:27.118 +05:30 [INF] Calculated investment amount: 24683.64.
+2025-05-20 01:13:27.119 +05:30 [INF] Calculating investment amount with PercentageSplit: 1.15, TargetAmount: 2345666, AnnualReturn: 5.2, InvestmentHorizon: 12.
+2025-05-20 01:13:27.122 +05:30 [INF] Calculated investment amount: 14681.66.
+2025-05-20 01:13:27.123 +05:30 [INF] Calculating investment amount with PercentageSplit: 1.1, TargetAmount: 2345666, AnnualReturn: 5, InvestmentHorizon: 12.
+2025-05-20 01:13:27.125 +05:30 [INF] Calculated investment amount: 14367.7.
+2025-05-20 01:13:27.126 +05:30 [INF] Calculating investment amount with PercentageSplit: 1.05, TargetAmount: 2345666, AnnualReturn: 3.5, InvestmentHorizon: 12.
+2025-05-20 01:13:27.129 +05:30 [INF] Calculated investment amount: 16299.39.
+2025-05-20 01:13:27.131 +05:30 [INF] Calculating investment amount with PercentageSplit: 1.2, TargetAmount: 2345666, AnnualReturn: 4, InvestmentHorizon: 12.
+2025-05-20 01:13:27.133 +05:30 [INF] Calculated investment amount: 17581.15.
+2025-05-20 01:13:27.134 +05:30 [INF] Calculating investment amount with PercentageSplit: 1.46, TargetAmount: 2345666, AnnualReturn: 5.1, InvestmentHorizon: 12.
+2025-05-20 01:13:27.137 +05:30 [INF] Calculated investment amount: 18853.26.
+2025-05-20 01:13:27.138 +05:30 [INF] Calculating investment amount with PercentageSplit: 1.54, TargetAmount: 2345666, AnnualReturn: 5.4, InvestmentHorizon: 12.
+2025-05-20 01:13:27.140 +05:30 [INF] Calculated investment amount: 19217.62.
+2025-05-20 01:13:27.142 +05:30 [INF] Calculating investment amount with PercentageSplit: 2.27, TargetAmount: 2345666, AnnualReturn: 8.9, InvestmentHorizon: 12.
+2025-05-20 01:13:27.146 +05:30 [INF] Calculated investment amount: 19140.68.
+2025-05-20 01:13:27.147 +05:30 [INF] Calculating investment amount with PercentageSplit: 2.42, TargetAmount: 2345666, AnnualReturn: 9.5, InvestmentHorizon: 12.
+2025-05-20 01:13:27.149 +05:30 [INF] Calculated investment amount: 19103.46.
+2025-05-20 01:13:27.150 +05:30 [INF] Calculating investment amount with PercentageSplit: 1.49, TargetAmount: 2345666, AnnualReturn: 6.7, InvestmentHorizon: 12.
+2025-05-20 01:13:27.152 +05:30 [INF] Calculated investment amount: 16050.16.
+2025-05-20 01:13:27.153 +05:30 [INF] Calculating investment amount with PercentageSplit: 1.63, TargetAmount: 2345666, AnnualReturn: 7.3, InvestmentHorizon: 12.
+2025-05-20 01:13:27.156 +05:30 [INF] Calculated investment amount: 16415.61.
+2025-05-20 01:13:27.157 +05:30 [INF] Calculating investment amount with PercentageSplit: 2.39, TargetAmount: 2345666, AnnualReturn: 10.2, InvestmentHorizon: 12.
+2025-05-20 01:13:27.160 +05:30 [INF] Calculated investment amount: 17477.73.
+2025-05-20 01:13:27.162 +05:30 [INF] Calculating investment amount with PercentageSplit: 2.3, TargetAmount: 2345666, AnnualReturn: 9.8, InvestmentHorizon: 12.
+2025-05-20 01:13:27.163 +05:30 [INF] Calculated investment amount: 17569.76.
+2025-05-20 01:13:27.174 +05:30 [INF] Product allocations saved to ProductAllocations.json
+2025-05-20 01:13:27.176 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[WisVestAPI.Models.Matrix.Product, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-05-20 01:13:27.180 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductAllocationController.CalculateProductAllocations (WisVest) in 224.2096ms
+2025-05-20 01:13:27.182 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductAllocationController.CalculateProductAllocations (WisVest)'
+2025-05-20 01:13:27.183 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5251/api/ProductAllocation/calculate-product-allocations?targetAmount=2345666&investmentHorizon=12 - 200 null application/json; charset=utf-8 263.0052ms
+2025-05-20 01:13:27.206 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/ProductAllocation/get-product-allocations - null null
+2025-05-20 01:13:27.207 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Allocation/get-calculated-allocations - null null
+2025-05-20 01:13:27.209 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:27.211 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:27.212 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/ProductAllocation/get-product-allocations - 204 null null 6.3602ms
+2025-05-20 01:13:27.213 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Allocation/get-calculated-allocations - 204 null null 5.9937ms
+2025-05-20 01:13:27.217 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Allocation/get-calculated-allocations - null null
+2025-05-20 01:13:27.220 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/ProductAllocation/get-product-allocations - null null
+2025-05-20 01:13:27.223 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:27.226 +05:30 [INF] CORS policy execution successful.
+2025-05-20 01:13:27.226 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.AllocationController.GetCalculatedAllocations (WisVest)'
+2025-05-20 01:13:27.227 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductAllocationController.GetProductAllocations (WisVest)'
+2025-05-20 01:13:27.233 +05:30 [INF] Route matched with {action = "GetCalculatedAllocations", controller = "Allocation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetCalculatedAllocations() on controller WisVestAPI.Controllers.AllocationController (WisVest).
+2025-05-20 01:13:27.233 +05:30 [INF] Route matched with {action = "GetProductAllocations", controller = "ProductAllocation"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProductAllocations() on controller WisVestAPI.Controllers.ProductAllocationController (WisVest).
+2025-05-20 01:13:27.237 +05:30 [INF] Attempting to read final allocation from JSON file: FinalAllocation.json
+2025-05-20 01:13:27.244 +05:30 [INF] Final allocation JSON read successfully.
+2025-05-20 01:13:27.246 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Object, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-05-20 01:13:27.250 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType3`2[[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[WisVestAPI.Models.Matrix.Product, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-05-20 01:13:27.251 +05:30 [INF] Executed action WisVestAPI.Controllers.AllocationController.GetCalculatedAllocations (WisVest) in 16.2269ms
+2025-05-20 01:13:27.254 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.AllocationController.GetCalculatedAllocations (WisVest)'
+2025-05-20 01:13:27.256 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Allocation/get-calculated-allocations - 200 null application/json; charset=utf-8 38.9635ms
+2025-05-20 01:13:27.257 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductAllocationController.GetProductAllocations (WisVest) in 19.9298ms
+2025-05-20 01:13:27.265 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductAllocationController.GetProductAllocations (WisVest)'
+2025-05-20 01:13:27.267 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/ProductAllocation/get-product-allocations - 200 null application/json; charset=utf-8 47.6376ms
+2025-05-20 01:27:30.854 +05:30 [INF] Application is shutting down...

@@ -1,0 +1,587 @@
+C:\Users\divya\WisVest\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\appsettings.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\WisVest.exe
+C:\Users\divya\WisVest\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\WisVest.dll
+C:\Users\divya\WisVest\bin\Debug\net8.0\WisVest.pdb
+C:\Users\divya\WisVest\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\divya\WisVest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\divya\WisVest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\divya\WisVest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\divya\WisVest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya\WisVest\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya\WisVest\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya\WisVest\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya\WisVest\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\divya\WisVest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\divya\WisVest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\divya\WisVest\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya\WisVest\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.dll
+C:\Users\divya\WisVest\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.pdb
+C:\Users\divya\WisVest\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\divya\WisVest\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\appsettings.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\WisVest.exe
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\WisVest.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\WisVest.pdb
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.pdb
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\users.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\Repositories\products_data.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\users.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Repositories\products_data.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\Repositories\asset_subcategory_weights.json
+C:\Users\divya\WisVest\bin\Debug\net8.0\Repositories\Matrix\SubAllocationRules.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Repositories\asset_subcategory_weights.json
+C:\Users\divya.t1\Desktop\Project\WisVest-Back\WisVest\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\appsettings.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Repositories\Matrix\product_json.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Repositories\products_data.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\users.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\WisVest.exe
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\WisVest.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\WisVest.pdb
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.dll
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.pdb
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\divya\Downloads\WisVest-main\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divya\Downloads\WisVest-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\appsettings.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Repositories\Matrix\product_json.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Repositories\products_data.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\users.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\WisVest.exe
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\WisVest.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\WisVest.pdb
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.pdb
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\divya.t1\Desktop\5-5-25 - BACK\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\appsettings.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Repositories\Matrix\product_json.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Repositories\products_data.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\users.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\WisVest.exe
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\WisVest.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\WisVest.pdb
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.pdb
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\divya\OneDrive\Documents\Desktop\5-5-25-WisVest-backend--main\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.pdb
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\appsettings.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Repositories\Matrix\product_json.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Repositories\products_data.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\users.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.exe
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.pdb
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\naina.koushik\Downloads\6-5-25-WisVest-Backend-main\6-5-25-WisVest-Backend-main\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\appsettings.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\users.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Repositories\Matrix\product_json.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.exe
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\WisVest.pdb
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.pdb
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\ProductAllocations.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\bin\Debug\net8.0\FinalAllocation.json
+C:\Users\divya.t1\Desktop\7-5-25-WisVest-Backend-main\obj\Debug\net8.0\WisVest.sourcelink.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\appsettings.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\FinalAllocation.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\ProductAllocations.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Repositories\Matrix\product_json.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\users.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\WisVest.exe
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\WisVest.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\WisVest.pdb
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.pdb
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\Bhavya Bansal\OneDrive\Desktop\f_in\Final backend code without enhancements\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\appsettings.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\FinalAllocation.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\ProductAllocations.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Repositories\Matrix\product_json.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\users.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\WisVest.exe
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\WisVest.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\WisVest.pdb
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.pdb
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\divya.t1\Desktop\Final backend code without enhancements\obj\Debug\net8.0\ref\WisVest.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\appsettings.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\FinalAllocation.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\ProductAllocations.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Repositories\Matrix\allocationMatrix.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Repositories\Matrix\product_json.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Repositories\Matrix\SubAllocationMatrix.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\users.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\WisVest.exe
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\WisVest.deps.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\WisVest.runtimeconfig.json
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\WisVest.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\WisVest.pdb
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\hitha\Sprint 2 backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.csproj.AssemblyReference.cache
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.AssemblyInfoInputs.cache
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.AssemblyInfo.cs
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.csproj.CoreCompileInputs.cache
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\staticwebassets\msbuild.WisVest.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\staticwebassets\msbuild.build.WisVest.props
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WisVest.props
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WisVest.props
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\scopedcss\bundle\WisVest.styles.css
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.csproj.Up2Date
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.dll
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\refint\WisVest.dll
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.pdb
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\WisVest.genruntimeconfig.cache
+C:\Users\hitha\Sprint 2 backend\obj\Debug\net8.0\ref\WisVest.dll

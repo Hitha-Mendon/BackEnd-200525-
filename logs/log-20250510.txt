@@ -1,0 +1,38 @@
+2025-05-10 13:20:56.984 +05:30 [INF] User profile is available. Using 'C:\Users\hitha\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-05-10 13:20:57.146 +05:30 [INF] Now listening on: http://localhost:5251
+2025-05-10 13:20:57.149 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-10 13:20:57.150 +05:30 [INF] Hosting environment: Development
+2025-05-10 13:20:57.151 +05:30 [INF] Content root path: C:\Users\hitha\Downloads\Sprint 2 backend
+2025-05-10 13:38:51.687 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/auth/login - null null
+2025-05-10 13:38:51.802 +05:30 [INF] CORS policy execution successful.
+2025-05-10 13:38:51.813 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/auth/login - 204 null null 132.1682ms
+2025-05-10 13:38:51.819 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:5251/api/auth/login - application/json 52
+2025-05-10 13:38:51.895 +05:30 [INF] Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '09-05-2025 10:18:58', Current time (UTC): '10-05-2025 08:08:51'.
+   at Microsoft.IdentityModel.Tokens.ValidatorUtilities.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateTokenPayloadAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2025-05-10 13:38:51.915 +05:30 [INF] Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo (UTC): '09-05-2025 10:18:58', Current time (UTC): '10-05-2025 08:08:51'.
+2025-05-10 13:38:51.916 +05:30 [INF] CORS policy execution successful.
+2025-05-10 13:38:51.920 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.AuthController.Login (WisVest)'
+2025-05-10 13:38:51.945 +05:30 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Login(LoginRequest) on controller WisVestAPI.Controllers.AuthController (WisVest).
+2025-05-10 13:38:52.009 +05:30 [INF] Fetching user with email shobha@gmail.com.
+2025-05-10 13:38:52.010 +05:30 [INF] Attempting to load all users from JSON file.
+2025-05-10 13:38:52.011 +05:30 [INF] Users loaded successfully from JSON file.
+2025-05-10 13:38:52.110 +05:30 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType1`2[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-05-10 13:38:52.126 +05:30 [INF] Executed action WisVestAPI.Controllers.AuthController.Login (WisVest) in 174.7285ms
+2025-05-10 13:38:52.127 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.AuthController.Login (WisVest)'
+2025-05-10 13:38:52.127 +05:30 [INF] Request finished HTTP/1.1 POST http://localhost:5251/api/auth/login - 200 null application/json; charset=utf-8 308.8756ms
+2025-05-10 13:40:45.813 +05:30 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - null null
+2025-05-10 13:40:45.829 +05:30 [INF] CORS policy execution successful.
+2025-05-10 13:40:45.830 +05:30 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:5251/api/Products/products - 204 null null 16.3815ms
+2025-05-10 13:40:45.836 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5251/api/Products/products - null null
+2025-05-10 13:40:45.856 +05:30 [INF] CORS policy execution successful.
+2025-05-10 13:40:45.861 +05:30 [INF] Executing endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-10 13:40:45.872 +05:30 [INF] Route matched with {action = "LoadProducts", controller = "Products"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] LoadProducts() on controller WisVestAPI.Controllers.ProductsController (WisVest).
+2025-05-10 13:40:45.915 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WisVestAPI.Models.DTOs.ProductDTO, WisVest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-05-10 13:40:45.921 +05:30 [INF] Executed action WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest) in 48.559ms
+2025-05-10 13:40:45.923 +05:30 [INF] Executed endpoint 'WisVestAPI.Controllers.ProductsController.LoadProducts (WisVest)'
+2025-05-10 13:40:45.924 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5251/api/Products/products - 200 null application/json; charset=utf-8 88.6481ms
+2025-05-10 13:46:01.101 +05:30 [INF] Application is shutting down...
