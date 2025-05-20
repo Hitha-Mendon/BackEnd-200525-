@@ -1,0 +1,27 @@
+{
+    "Equity": {
+      "Large Cap": { "Low": 5, "Moderate": 4, "High": 3 },
+      "Mid Cap": { "Low": 2, "Moderate": 3, "High": 4 },
+      "Small Cap": { "Low": 1, "Moderate": 3, "High": 5 }
+    },
+    "Fixed Income": {
+      "Gov Bonds": { "Low": 5, "Moderate": 3, "High": 1 },
+      "Corp Bonds": { "Low": 2, "Moderate": 4, "High": 4 },
+      "Fixed Dep": { "Low": 3, "Moderate": 3, "High": 1 }
+    },
+    "Real Estate": {
+      "REITs": { "Low": 4, "Moderate": 3, "High": 2 },
+      "Residential Prop": { "Low": 4, "Moderate": 2, "High": 2 },
+      "Commercial Prop": { "Low": 2, "Moderate": 3, "High": 5 }
+    },
+    "Commodities": {
+      "Precious Metals": { "Low": 5, "Moderate": 4, "High": 2 },
+      "Energy": { "Low": 2, "Moderate": 3, "High": 5 },
+      "Agriculture": { "Low": 1, "Moderate": 3, "High": 5 }
+    },
+    "Cash Equivalence": {
+      "Liquid Mutual Funds": { "Low": 3, "Moderate": 3, "High": 2 },
+      "Savings Acc": { "Low": 5, "Moderate": 3, "High": 1 },
+      "T. Bill": { "Low": 5, "Moderate": 4, "High": 1 }
+    }
+  }
